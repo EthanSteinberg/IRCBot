@@ -1,0 +1,4 @@
+This is a bot for keeping a SO chat and an IRC channel in sync.
+It automatically crossposts messages between the chats.
+
+TODO: Write a how to use
